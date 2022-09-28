@@ -18,8 +18,6 @@ Riportare poi le tabelle in Excel e popolare con dei dati dummy
 
 - Limiti tecnici
 
- - Un ordine può avere più prodotti ma un solo cliente
-
+- Un ordine può avere più prodotti ma un solo cliente
 - Un vettore può contenere più ordini
-
 - Un cliente può avere più ordini
