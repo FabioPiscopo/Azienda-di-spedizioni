@@ -2,15 +2,15 @@
 Creare il data model per un’azienda di spedizioni.
 
 
-Identificare le entità
+1. Identificare le entità
 
-Determinare i campi per ogni entità
+2. Determinare i campi per ogni entità
 
-Determinare le relazioni per ogni entità
+3. Determinare le relazioni per ogni entità
 
-Determinare le chiavi
+4. Determinare le chiavi
 
-Determinare i tipi di tabelle
+5. Determinare i tipi di tabelle
 
 Riportare poi le tabelle in Excel e popolare con dei dati dummy
 
@@ -18,6 +18,6 @@ Riportare poi le tabelle in Excel e popolare con dei dati dummy
 
 Limiti tecnici:
 
-- Un ordine può avere più prodotti ma un solo cliente
-- Un vettore può contenere più ordini
-- Un cliente può avere più ordini
+1. Un ordine può avere più prodotti ma un solo cliente
+2. Un vettore può contenere più ordini
+3. Un cliente può avere più ordini
