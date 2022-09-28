@@ -1,5 +1,5 @@
 # Data-mindset
-Creare il data model per un’azienda di spedizioni
+Creare il data model per un’azienda di spedizioni.
 
 
 Identificare le entità
